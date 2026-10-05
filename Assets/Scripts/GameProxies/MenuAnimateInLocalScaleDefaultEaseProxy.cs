@@ -1,0 +1,7 @@
+﻿#if GAME_ASSEMBLIES
+#pragma warning disable 114
+[UnityEngine.AddComponentMenu("KTaNE/MenuAnimateInLocalScaleDefaultEase")]
+public class MenuAnimateInLocalScaleDefaultEaseProxy : MenuAnimateInLocalScaleDefaultEase
+{
+}
+#endif

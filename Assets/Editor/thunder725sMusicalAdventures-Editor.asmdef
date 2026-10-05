@@ -1,0 +1,10 @@
+{
+  "name": "thunder725sMusicalAdventures-Editor",
+  "references": [
+    "thunder725sMusicalAdventures"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

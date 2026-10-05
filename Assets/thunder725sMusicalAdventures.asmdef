@@ -1,0 +1,8 @@
+{
+  "name": "thunder725sMusicalAdventures",
+  "references": [
+    "GameProxies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

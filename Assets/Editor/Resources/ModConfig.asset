@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: thunder725sMusicalAdventures
+  title: thunder725's Musical Adventures
+  author: thunder725
+  description: 'Missions straight from the weird parts of my brain.
+
+
+    Missions in "Section 2: Shuffled Playlist" must be played with the Rule Seed Modifier
+    mod enabled and a random Rule Seed.
+
+    The bombs will not launch without the Rule Seed Modifier mod installed and enabled.
+
+    Trying to play with the Random Rule Seed setting set to false will instantly explode
+    the bomb on startup.
+
+
+
+    =-= Current Mission List:
+
+
+    = Section 1: Greatest Hits
+
+    - 1.1: Good Morning, 47
+
+    - 1.2: Zero-Way Mirror
+
+
+    = Section 2: Shuffled Playlists
+
+    - 2.1: Played by Ear'
+  version: 0.1.0
+  outputFolder: build
+  debugBuild: 0
+  previewImage: {fileID: 2800000, guid: 3ac31e52e1b50ca4786a718e8d003e57, type: 3}

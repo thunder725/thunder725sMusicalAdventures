@@ -150,6 +150,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - punctuationMarks
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - roleReversal
     - Count: 1
       AllowedSources: 0
@@ -163,6 +169,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - simonsSuit
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - thermostat
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -186,6 +198,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - DNAMutation
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - europeanTravel
     - Count: 1
       AllowedSources: 0
@@ -199,12 +217,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - golf
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - grayHexabuttons
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -228,7 +240,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - KritLockpickMaze
+      - ksmBadugi
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -264,12 +276,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - thermostat
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - timezone
     - Count: 1
       AllowedSources: 0
@@ -277,12 +283,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - sevenDeadlySins
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - SkyPlate
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 

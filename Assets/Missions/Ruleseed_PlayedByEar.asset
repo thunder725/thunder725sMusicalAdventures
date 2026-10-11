@@ -18,7 +18,7 @@ MonoBehaviour:
     Must be played with the Rule Seed Modifier mod and a random Rule Seed.'
   GeneratorSetting:
     TimeLimit: 3600
-    NumStrikes: 3
+    NumStrikes: 5
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
     OptionalWidgetCount: 5

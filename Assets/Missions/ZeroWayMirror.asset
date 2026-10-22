@@ -19,7 +19,7 @@ MonoBehaviour:
 
     A mission based on visuals and observation.'
   GeneratorSetting:
-    TimeLimit: 4500
+    TimeLimit: 5400
     NumStrikes: 3
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
@@ -42,13 +42,13 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - CornflowerButtonModule
+      - impostor
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - impostor
+      - LenticularMaze
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -66,7 +66,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - noiseIdentification
+      - oneLine
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -85,12 +85,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - swish
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - LenticularMaze
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -223,6 +217,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - constellations
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - GiantsCipher
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 

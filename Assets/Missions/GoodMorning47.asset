@@ -26,10 +26,10 @@ MonoBehaviour:
     I will leave you to prepare.'
   GeneratorSetting:
     TimeLimit: 2820
-    NumStrikes: 3
+    NumStrikes: 4
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
-    OptionalWidgetCount: 4
+    OptionalWidgetCount: 7
     ComponentPools:
     - Count: 1
       AllowedSources: 0
